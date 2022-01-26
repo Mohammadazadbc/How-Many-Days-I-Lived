@@ -1,2 +1,3 @@
-### Enter your birthday, this app will show you how many days you have lived until now.
-!["project Screen shot"](screenshot.png)
+### This is an Note App you can write and see your text on markdown vesion 
+
+!["project Screen shot"](Screenshot.png)
